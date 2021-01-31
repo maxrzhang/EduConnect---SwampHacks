@@ -1,0 +1,136 @@
+.card {
+  margin-left: 40px;
+}
+.cards {
+  padding-top: 5%;
+  display: flex;
+  justify-content: center;
+}
+.photo {
+  height: 300px;
+  width: 300px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+.footer {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  background-color: #c7ecee;
+  width: 300px;
+  height: 40px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+.subject-card {
+  display: flex;
+  flex-direction: column;
+}
+.photo footer {
+  margin-left: 20px;
+}
+.body {
+  height: fit-content;
+}
+.logo {
+  text-align: center;
+  font-size: 70px;
+  padding-top: 30px;
+}
+.desc {
+  text-decoration: none;
+  color: #4a4dae;
+  font-size: 21px;
+  display: flex;
+  justify-content: center;
+  transition: 0.5s;
+}
+.desc:hover {
+  color: black;
+}
+.banner {
+  height: 300px;
+  width: 100%;
+  background-color: #ffdd59;
+}
+.banner-math {
+  height: 300px;
+  width: 100%;
+  background-color: #4bcffa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.subject-name {
+  color: white;
+  font-size: 150px;
+}
+.banner-english {
+  height: 300px;
+  width: 100%;
+  background-color: #0be881;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.banner-physics {
+  height: 300px;
+  width: 100%;
+  background-color: #d980fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.greeting {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.input {
+  height: 33px;
+  background-color: transparent;
+  outline: none;
+  border: 1px solid gray;
+  margin-left: 3px;
+  text-indent: 10px;
+}
+.banner-home {
+  height: 150px;
+  width: 100%;
+  background-color: #74b9ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 60px;
+}
+.text {
+  display: block;
+  text-align: center;
+}
+.describe {
+  text-align: center;
+  font-size: 40px;
+}
+.center-text {
+  text-align: center;
+  padding-top: 10%;
+}
+.big-logo {
+  font-size: 150px;
+}
+.description {
+  font-size: 30px;
+  padding-bottom: 30px;
+}
+.a {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,9 @@
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.subject-name {
+  color: white;
+  font-size: 150px;
+}

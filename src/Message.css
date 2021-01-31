@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.message__user {
+  color: black;
+}
+.message {
+  width: 50%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}
+.username {
+  font-size: 14px;
+  color: gray;
+  padding-left: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.title {
+  font-size: 30px;
+  padding-left: 15px;
+}
+.profile-image {
+  height: 70px;
+  border-radius: 50%;
+}
+.message-top {
+  display: flex;
+  padding-bottom: 0px;
+}
+.message-text {
+  padding-left: 70px;
+}
